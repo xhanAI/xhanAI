@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" alt="Adrian Xhanaj · Creative Developer & AI consultant" width="100%" />
+  <img src="images/banner.svg" alt="Adrian Xhanaj (Αντριάν Τζανάι) · Creative Developer and AI consultant" width="100%" />
 </div>
 
 <table>
@@ -7,7 +7,7 @@
     <td width="52%" valign="top">
       <h3><img src="images/icons/hand.svg" width="26" align="center" alt="" /> Hi, I'm Adrian</h3>
       <p>
-        I'm a <strong>Creative Developer and AI consultant</strong>. I build websites, small tools,
+        I'm <strong>Adrian Xhanaj</strong> (Αντριάν Τζανάι), a <strong>Creative Developer and AI consultant</strong>. I build websites, small tools,
         and the AI workflows that tie them together.
       </p>
       <p>
@@ -54,6 +54,14 @@
 </div>
 
 <img src="images/langs.png" alt="Languages across my repositories" width="100%" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/snake/snake-dark.svg" />
+    <img src="images/snake/snake-light.svg" alt="Contribution graph being eaten by a snake" width="100%" />
+  </picture>
+</div>
+
 
 ---
 
