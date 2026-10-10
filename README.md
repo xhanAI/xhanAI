@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="52%" valign="top">
-      <h3>Hi, I'm Adrian 👋</h3>
+      <h3><img src="images/icons/hand.svg" width="26" align="center" alt="" /> Hi, I'm Adrian</h3>
       <p>
         I'm a <strong>Creative Developer and AI consultant</strong>. I build websites, small tools,
         and the AI workflows that tie them together.
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <h2>🧰 Tech Stack</h2>
+  <h2><img src="images/icons/wrench.svg" width="30" align="center" alt="" /> Tech Stack</h2>
 
   <h4>Web</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,vite,tailwind,svelte&perline=9" alt="Web" />
@@ -57,46 +57,41 @@
 
 ---
 
-## 💼 What I Bring
+## <img src="images/icons/briefcase.svg" width="30" align="center" alt="" /> What I Bring
 
 <table>
   <tr>
-    <td>🤖</td>
+    <td width="56" align="center"><img src="images/icons/bot.svg" width="40" height="40" align="center" alt="" /></td>
     <td><strong>AI agents that ask first</strong></td>
     <td>Designed a method for running several Claude agents on one project: a planner that never writes code, workers with written roles, shared state files, and structured handoffs. Then I turned it into a tool (Foreman, below).</td>
   </tr>
   <tr>
-    <td>🔌</td>
-    <td><strong>MCP servers</strong></td>
-    <td>Built MCP servers that let Claude work directly with real services, such as Google Tag Manager and a team task tracker, so the AI reads and acts on live data instead of copy-pasted text.</td>
+    <td width="56" align="center"><img src="images/icons/chart-line.svg" width="40" height="40" align="center" alt="" /></td>
+    <td><strong>Marketing, SEO & analytics with AI</strong></td>
+    <td>Built a knowledge base and playbook around Google's tools (Analytics 4, Tag Manager, Search Console, PageSpeed and Lighthouse) connected to Claude through MCP. With it I run real SEO audits, tracking setups, keyword research and performance reports, end to end.</td>
   </tr>
   <tr>
-    <td>🧑‍🏫</td>
+    <td width="56" align="center"><img src="images/icons/messages-square.svg" width="40" height="40" align="center" alt="" /></td>
     <td><strong>AI consulting</strong></td>
     <td>Help people and teams bring AI into their daily work: which tasks to hand to an agent, how to write instructions it can follow, and where a human must stay in the loop.</td>
   </tr>
   <tr>
-    <td>🏗️</td>
-    <td><strong>Astro Kit</strong></td>
-    <td>A reusable kit for building Astro sites with AI: 80 page-section designs distilled from real projects into a searchable lookbook, plus the agents and skills that rebuild them in any new site.</td>
+    <td width="56" align="center"><img src="images/icons/workflow.svg" width="40" height="40" align="center" alt="" /></td>
+    <td><strong>Automating daily work</strong></td>
+    <td>Turn repeated work into proper workflows: written conventions, reusable building blocks, and documentation that both people and AI agents follow, so routine work runs the same way every time and nothing lives only in someone's head.</td>
   </tr>
   <tr>
-    <td>🛡️</td>
+    <td width="56" align="center"><img src="images/icons/shield-check.svg" width="40" height="40" align="center" alt="" /></td>
     <td><strong>WordPress security plugin</strong></td>
     <td>A plugin that needs only WP admin access: file-integrity checks, change detection, alerts, and a tamper-evident logbook. Built in response to the wave of AI-driven WordPress attacks.</td>
   </tr>
   <tr>
-    <td>📡</td>
-    <td><strong>Network monitoring</strong></td>
-    <td>A Wireshark toolkit with three monitoring profiles, rolling captures, a one-command "why is my internet slow?" check, and case studies that test whether an app phones home.</td>
+    <td width="56" align="center"><img src="images/icons/radar.svg" width="40" height="40" align="center" alt="" /></td>
+    <td><strong>Security freak</strong></td>
+    <td>I like to know exactly what my machines are doing. I keep a Wireshark toolkit with monitoring profiles, rolling captures and a one-command network health check, and I test new apps to see whether they phone home before I trust them.</td>
   </tr>
   <tr>
-    <td>🎧</td>
-    <td><strong>AI DJ set builder</strong></td>
-    <td>A Python tool that analyses tempo and key, orders a whole crate into an energy curve, and renders one continuous, beat-matched DJ set.</td>
-  </tr>
-  <tr>
-    <td>🧪</td>
+    <td width="56" align="center"><img src="images/icons/blocks.svg" width="40" height="40" align="center" alt="" /></td>
     <td><strong>60+ tools and experiments</strong></td>
     <td>Small tools that remove repeated work: file renamers and sorters, PDF extraction, image-to-WebP batches, WooCommerce product fixes, a policies generator, bookmarking, and more.</td>
   </tr>
@@ -104,7 +99,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="images/icons/rocket.svg" width="30" align="center" alt="" /> Featured Projects
 
 <table>
   <tr>
@@ -112,18 +107,18 @@
       <img src="images/frenzy.jpg" alt="FRENZY particle piece" width="100%" />
       <h3>FRENZY</h3>
       <p>A GPU art piece: images dissolve into about a million particles that react to your mouse and spring back into place when you stop. Scrolling flies the camera through depth-stacked image layers.</p>
-      <p>🛠️ WebGL2, GLSL, GSAP ScrollTrigger, vanilla JS (no build step)</p>
+      <p><img src="images/icons/hammer.svg" width="20" align="center" alt="" /> WebGL2, GLSL, GSAP ScrollTrigger, vanilla JS (no build step)</p>
     </td>
     <td width="50%" valign="top">
       <img src="images/foreman.png" alt="Foreman dashboard" width="100%" />
       <h3>Foreman</h3>
       <p>A local manager for teams of Claude Code agents. Goals become plans, workers run in parallel in their own git worktrees and stream live, and nothing important happens without your approval.</p>
-      <p>🛠️ TypeScript, Fastify, SQLite, Claude Agent SDK, React 19, Vite, Tailwind</p>
+      <p><img src="images/icons/hammer.svg" width="20" align="center" alt="" /> TypeScript, Fastify, SQLite, Claude Agent SDK, React 19, Vite, Tailwind</p>
     </td>
   </tr>
 </table>
 
-### 🍷 adrianx · tools
+### <img src="images/icons/wine.svg" width="26" align="center" alt="" /> adrianx · tools
 
 > `~/ a growing toolbelt — crafted, not generated`
 
@@ -154,16 +149,9 @@ A family of small web tools that share one brand. The design tokens, fonts and s
 
 ---
 
-## 🎨 Background
+## <img src="images/icons/palette.svg" width="30" align="center" alt="" /> Background
 
-Before code, I worked **behind a camera and in the edit**: filming, video editing, and posters in Photoshop, Premiere and After Effects. That is where the *creative* half of my title comes from. I studied **Informatics Engineering**, and I speak **Greek, Albanian and English** (Michigan Proficiency).
-
-## 🌱 Currently Exploring
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,blender,godot,linux&perline=5" alt="Current focus" />
-  <p>Agent orchestration · WordPress security · network monitoring with Wireshark · 3D on the web · DJ mixing</p>
-</div>
+Before code, I worked **behind a camera and in the edit**: filming, video editing, and posters in Photoshop, Premiere and After Effects. That is where the *creative* half of my title comes from. I studied **Informatics Engineering**, and I speak **Greek, Albanian and English**.
 
 ---
 
