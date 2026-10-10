@@ -100,8 +100,8 @@
   </tr>
   <tr>
     <td width="56" align="center"><img src="images/icons/blocks.svg" width="40" height="40" align="center" alt="" /></td>
-    <td><strong>60+ tools and experiments</strong></td>
-    <td>Small tools that remove repeated work: file renamers and sorters, PDF extraction, image-to-WebP batches, WooCommerce product fixes, a policies generator, bookmarking, and more.</td>
+    <td><strong>Problem solver, 60+ tools</strong></td>
+    <td>I'm a problem solver. Almost every tool started as a small, annoying problem in my own work, and most were quick to solve once I broke them down: file renamers and sorters, PDF extraction, image-to-WebP batches, WooCommerce product fixes, a policies generator, bookmarking, and more.</td>
   </tr>
 </table>
 
