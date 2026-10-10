@@ -21,7 +21,7 @@
       </p>
     </td>
     <td width="48%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=xhanAI&background=15100F&border=7D2A38&ring=9A2E3A&fire=B59A6A&currStreakNum=E7DCC8&sideNums=E7DCC8&currStreakLabel=B59A6A&sideLabels=A98F88&dates=A98F88&hide_border=false" alt="Contribution streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=xhanAI&starting_year=2025&background=15100F&border=7D2A38&ring=9A2E3A&fire=B59A6A&currStreakNum=E7DCC8&sideNums=E7DCC8&currStreakLabel=B59A6A&sideLabels=A98F88&dates=A98F88&hide_border=false" alt="Contribution streak" width="100%" />
     </td>
   </tr>
 </table>
